@@ -1,1 +1,1 @@
-# Estutando a linguagem python
+# Estutando a linguagem Python, com o Google Colab
